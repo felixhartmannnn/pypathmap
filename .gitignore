@@ -1,5 +1,6 @@
 __pycache__/
-*.egg-info/
+*.egg-info
+*.egg
 dist/
 build/
 .venv/
@@ -18,3 +19,11 @@ AGENTS.md
 CLAUDE.md
 *.pyc
 *.pyo
+.tox/
+.vscode/
+.idea/
+*.log
+*.swp
+*~
+.cache/
+.git/
