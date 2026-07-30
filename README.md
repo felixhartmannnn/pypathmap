@@ -53,3 +53,7 @@ pypathmap/
 ## Topics
 
 python, dependency, visualization, tree, tooling, cli, package-structure
+
+## Repository
+
+https://github.com/felixhartmannnn/pypathmap
