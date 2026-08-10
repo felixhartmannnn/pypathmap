@@ -57,3 +57,7 @@ python, dependency, visualization, tree, tooling, cli, package-structure
 ## Repository
 
 https://github.com/felixhartmannnn/pypathmap
+
+## License
+
+MIT License. See [LICENSE](LICENSE) for details.
