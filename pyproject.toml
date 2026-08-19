@@ -42,6 +42,7 @@ pypathmap = "pypathmap.cli:main"
 
 [project.urls]
 Homepage = "https://github.com/felixhartmannnn/pypathmap"
+Repository = "https://github.com/felixhartmannnn/pypathmap"
 "Bug Tracker" = "https://github.com/felixhartmannnn/pypathmap/issues"
 
 [tool.setuptools.packages.find]
